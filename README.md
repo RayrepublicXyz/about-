@@ -3,10 +3,10 @@
 </p>
 
 ## It's Me? :
-> * Hello There, YanXiao Is Here 🎐
+> * Hello everything, Im 🌼
 
 <p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/RayrepublicXyz"><img title="Author" src="https://img.shields.io/badge/Xiao-Yan-blue.svg?style=for-the-badge&logo=github"></a>
 
 ## Spotify Music :
 <p align="center">
@@ -19,20 +19,15 @@
 #### I'm currently learning:
 
 > * JavaScript
-> * Html 
-> * Assembly 
-> * Css
-> * Python
-
 ---
  B i o d a t a 🎨
 ```kt
 fun main() {
     println("About Me 🐾")
-    val name = "Xiao Yan"
+    val name = "RayRepublic"
     println("My name is $name")
     
-    val age = 18
+    val age = 16
     val gender = "Male"
     
     println("Age : $age Th") 
@@ -43,8 +38,8 @@ fun main() {
 ---------
 
 ## ```Status 🐾```
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImYanXiao&show_icons=true&theme=radical" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RayrepublicXyz&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayrepublicXyz&show_icons=true&theme=radical" />
 </p>
 
-<!--![github toplang](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
+<!--![github toplang](https://github-readme-stats.vercel.app/api?username=RayrepublicXyz&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
